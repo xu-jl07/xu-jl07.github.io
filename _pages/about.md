@@ -57,4 +57,4 @@ redirect_from:
 <span class='anchor' id='-gzsx'></span>
 
 # 💻 工作实习
-暂无
+吉林大学 Robomaster战队26年纳新队员
